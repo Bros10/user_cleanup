@@ -8,12 +8,15 @@ cd user_cleanup/
 sudo mv user_cleanup.py /usr/local/bin/user_cleanup.py 
 ```
 
-## Usage 
+## Usage
+```console
 user_cleanup.py in_file out_file
+```
 
 ## Example
+```console
 user_cleanup.py users.txt cleaned_users.txt
-
+```
  ![Image](/images/users.png)
  ![Image](/images/cleaned_users.png)
  
