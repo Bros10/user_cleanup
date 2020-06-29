@@ -8,4 +8,5 @@ user_cleanup.py in_file out_file
 user_cleanup.py users.txt cleaned_users.txt
 
  ![Image](/images/users.png)
+ ![Image](/images/cleaned_users.png)
 
